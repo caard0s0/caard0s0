@@ -14,7 +14,7 @@
 
 <br></br>
 
-### 🛠️ &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/caard0s0/)&nbsp;
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
@@ -24,7 +24,7 @@
 
 <br></br>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caardoso)
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/caard0s0_)
