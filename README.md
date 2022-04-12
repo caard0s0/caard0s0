@@ -24,8 +24,15 @@
 
 <br></br>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=caard0s0&show_icons=true&theme=maroongold" alt="Vinicius Cardoso stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caard0s0&layout=compact&theme=maroongold" alt="Vinicius Cardoso's most languages"/>
+
+<br><br>
+
 ## 🤝🏻 &nbsp;Connect with Me
 
+<a href = "mailto:cardoso.business.ctt@gmail.com" target="_blank">![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)</a>
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caardoso)
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/caard0s0_)
-<a href = "mailto:cardoso.business.ctt@gmail.com" target="_blank">![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)</a>
