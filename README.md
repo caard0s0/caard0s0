@@ -4,7 +4,7 @@
 
 - 🔭 I'm studying HTML, CSS, JavaScript & React
 
-- 🚧 I'm building my portfolio...
+- 🚧 I'm building my Portfolio...
 
 - 💡 Ask me about Technology, Business & Finance
 
@@ -16,11 +16,13 @@
 
 ## 🛠️ &nbsp;Tech Stack 
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/caard0s0/)&nbsp;
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 <br></br>
 
