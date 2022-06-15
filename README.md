@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 I'm Front-End Software Developer
 
-- 🔭 I'm studying HTML, CSS, JavaScript & React
+- 🔭 I'm studying JavaScript, TypeScript & React
 
 - 🚧 I'm building my Portfolio...
 
@@ -19,6 +19,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
@@ -28,8 +29,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<img width="350em" src="https://github-readme-stats.vercel.app/api?username=caard0s0&show_icons=true&theme=maroongold" alt="Vinicius Cardoso stats"/>
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caard0s0&layout=compact&theme=maroongold" alt="Vinicius Cardoso's most languages"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=caard0s0&show_icons=true&theme=moltack" alt="Vinicius Cardoso stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caard0s0&layout=compact&theme=moltack" alt="Vinicius Cardoso's most languages"/>
 
 <br><br>
 
