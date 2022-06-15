@@ -21,6 +21,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/caard0s0/)](https://github.com/caard0s0/)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
